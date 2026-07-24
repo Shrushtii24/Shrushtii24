@@ -1,119 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24&text=Shrushti%20Panchdhane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Shrushti%20Panchdhane&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+with+Python;Always+Learning+Something+New)](https://git.io/typing-svg)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello World!
 
-</div>
+### Data Science Engineering Student • AI Enthusiast • Computer Vision Explorer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&center=true&vCenter=true&color=F75CFF&width=700&lines=Building+AI+Solutions;Machine+Learning+Explorer;Computer+Vision+Developer;Always+Learning+Something+New+🚀"/>
 
-<h2 align="center">✨ About Me</h2>
+<br>
 
-<div align="center">
-
-💖 Curious mind with a passion for turning ideas into intelligent solutions.
-
-🧠 Exploring Machine Learning, Computer Vision and Data Analytics.
-
-🌸 I enjoy building meaningful applications that combine creativity with technology.
-
-☕ Powered by coffee, curiosity and late-night debugging sessions.
-
-</div>
-
----
-
-<h2 align="center">⚡ Tech Universe</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,php,mysql,git,github,vscode,tensorflow"/>
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="700" src="https://streak-stats.demolab.com?user=Shrushtii24&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shrushtii24&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<h2 align="center">🌸 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://github.com/Shrushtii24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:panchdhaneshrushti@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/shrushti-panchdhane-b2787528a?_l=en_US">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Shrushtii24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
+# 🌸 About Me
+
+```yaml
+Name: Shrushti Panchdhane
+
+Role: Data Science Engineering Student
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Data Analytics
+
+Currently Learning:
+  - Deep Learning
+  - OpenCV
+  - NLP
+  - Advanced Python
+
+Fun Fact:
+  "Most bugs disappear after staring at the screen long enough."
+```
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shrushtii24&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,php,mysql,tensorflow,pytorch,git,github,vscode"/>
 
 </div>
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shrushtii24&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shrushtii24/Shrushtii24/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Development Environment
+
 <div align="center">
 
-### ✨ *"Keep learning. Keep building. Keep growing."* ✨
+| 💻 Editor | VS Code |
+|-----------|---------|
+| 🖥️ OS | Windows |
+| ☕ Fuel | Coffee |
+| 🌙 Coding Time | Late Night |
+| 🎵 Playlist | Lo-fi |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24"/>
+---
+
+# 🌐 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shrushtii24&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
