@@ -1,16 +1,171 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shrushti Panchdhane</h1>
 
-<!--
-**Shrushtii24/Shrushtii24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Data Science Engineering Student | 🤖 AI & Machine Learning Enthusiast | 🩸 Computer Vision Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Open+Source+Learner;Always+Learning+New+Technologies&center=true&width=700&height=50&color=FF69B4&vCenter=true&size=28">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.E. Data Science Engineering Student
+- 🌱 Currently learning **Machine Learning, Deep Learning, Computer Vision & Data Analytics**
+- 🩸 Working on **Camera-Based Colorimetric Digital Hemoglobinometer**
+- 💡 Passionate about solving real-world healthcare problems using AI
+- 💻 Love building Machine Learning and Web Development projects
+- 🚀 Always exploring new technologies
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,html,css,js"/>
+</p>
+
+### 🧠 AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
+---
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+---
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+Power BI • Tableau • Google Colab • Jupyter Notebook
+
+---
+
+# 🏆 Featured Projects
+
+## 🩸 Camera-Based Colorimetric Digital Hemoglobinometer
+
+Portable AI-powered hemoglobin measurement system using image processing and computer vision.
+
+**Tech Used**
+
+- Python
+- OpenCV
+- Machine Learning
+- Image Processing
+
+---
+
+## 🤖 Handwritten Digit Recognition
+
+Deep Learning model that recognizes handwritten digits using CNN.
+
+---
+
+## 🎤 AI Interview Coach
+
+AI-powered interview practice platform with intelligent feedback.
+
+---
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects and technical skills.
+
+---
+
+## 📊 Power BI Dashboards
+
+Interactive dashboards for data visualization and business analytics.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shrushtii24&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+[![Shrushti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night)](https://github.com/Shrushtii24)
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shrushtii24&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/shrushti-panchdhane-b2787528a?_l=en_US">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:panchdhaneshrushti@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Shrushtii24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Code with purpose. Build solutions that create real impact."*
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shrushtii24&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
