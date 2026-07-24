@@ -1,21 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,18,24&text=Shrushti%20Panchdhane&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24&text=Shrushti%20Panchdhane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=FF6EC7&center=true&vCenter=true&width=700&lines=Data+Science+Engineering+Student;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+AI+That+Makes+an+Impact;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+with+Python;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-<br>
+</div>
+
+---
+
+<h2 align="center">✨ About Me</h2>
+
+<div align="center">
+
+💖 Curious mind with a passion for turning ideas into intelligent solutions.
+
+🧠 Exploring Machine Learning, Computer Vision and Data Analytics.
+
+🌸 I enjoy building meaningful applications that combine creativity with technology.
+
+☕ Powered by coffee, curiosity and late-night debugging sessions.
+
+</div>
+
+---
+
+<h2 align="center">⚡ Tech Universe</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,php,mysql,git,github,vscode,tensorflow"/>
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="700" src="https://streak-stats.demolab.com?user=Shrushtii24&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shrushtii24&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<h2 align="center">🌸 Connect With Me</h2>
+
+<div align="center">
 
 <a href="https://github.com/Shrushtii24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:panchdhaneshrushti@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="linkedin.com/in/shrushti-panchdhane-b2787528a?_l=en_US">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -24,95 +104,7 @@
 
 <div align="center">
 
-# 🌸 Hello, I'm Shrushti
-
-I enjoy building intelligent applications that combine **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Data Analytics** to solve meaningful problems.
-
-I love exploring new technologies, experimenting with ideas, and continuously improving my skills through hands-on development.
-
-</div>
-
----
-
-# 💜 Tech Universe
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,php,mysql,git,github,vscode,tensorflow,pytorch"/>
-
-</div>
-
----
-
-# 🌌 Currently Exploring
-
-```text
-🧠 Machine Learning
-
-👁️ Computer Vision
-
-📊 Data Analytics
-
-🐍 Python Development
-
-⚙️ Open Source
-
-🚀 Building Better Projects
-```
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=radical&hide_border=true&border_radius=18"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=radical&hide_border=true&border_radius=18"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shrushtii24&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 🌊 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 My Workspace
-
-```text
-💻 Laptop     : Windows
-
-🧠 Editor     : VS Code
-
-☕ Fuel       : Coffee
-
-🎵 Music      : Lo-fi & Chill
-
-🌙 Time Zone  : Late Night Coding
-```
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://komarev.com/ghpvc/?username=Shrushtii24&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
@@ -120,18 +112,8 @@ I love exploring new technologies, experimenting with ideas, and continuously im
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shrushtii24&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+### ✨ *"Keep learning. Keep building. Keep growing."* ✨
 
 </div>
 
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile ✨
-
-*"Keep learning. Keep building. Keep growing."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=6,12,18,24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24"/>
