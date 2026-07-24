@@ -59,45 +59,6 @@ Power BI • Tableau • Google Colab • Jupyter Notebook
 
 ---
 
-# 🏆 Featured Projects
-
-## 🩸 Camera-Based Colorimetric Digital Hemoglobinometer
-
-Portable AI-powered hemoglobin measurement system using image processing and computer vision.
-
-**Tech Used**
-
-- Python
-- OpenCV
-- Machine Learning
-- Image Processing
-
----
-
-## 🤖 Handwritten Digit Recognition
-
-Deep Learning model that recognizes handwritten digits using CNN.
-
----
-
-## 🎤 AI Interview Coach
-
-AI-powered interview practice platform with intelligent feedback.
-
----
-
-## 🌐 Portfolio Website
-
-Personal portfolio showcasing projects and technical skills.
-
----
-
-## 📊 Power BI Dashboards
-
-Interactive dashboards for data visualization and business analytics.
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
