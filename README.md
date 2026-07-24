@@ -1,132 +1,119 @@
-<h1 align="center">Hi 👋, I'm Shrushti Panchdhane</h1>
+<div align="center">
 
-<h3 align="center">💻 Data Science Engineering Student | 🤖 AI & Machine Learning Enthusiast | 🩸 Computer Vision Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24&text=Shrushti%20Panchdhane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Open+Source+Learner;Always+Learning+New+Technologies&center=true&width=700&height=50&color=FF69B4&vCenter=true&size=28">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+with+Python;Always+Learning+Something+New)](https://git.io/typing-svg)
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.E. Data Science Engineering Student
-- 🌱 Currently learning **Machine Learning, Deep Learning, Computer Vision & Data Analytics**
-- 🩸 Working on **Camera-Based Colorimetric Digital Hemoglobinometer**
-- 💡 Passionate about solving real-world healthcare problems using AI
-- 💻 Love building Machine Learning and Web Development projects
-- 🚀 Always exploring new technologies
+</div>
 
 ---
 
-# 🚀 Tech Stack
+<h2 align="center">✨ About Me</h2>
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,html,css,js"/>
-</p>
+💖 Curious mind with a passion for turning ideas into intelligent solutions.
 
-### 🧠 AI / Data Science
+🧠 Exploring Machine Learning, Computer Vision and Data Analytics.
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
+🌸 I enjoy building meaningful applications that combine creativity with technology.
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-Learn
+☕ Powered by coffee, curiosity and late-night debugging sessions.
+
+</div>
 
 ---
 
-### 🗄 Database
+<h2 align="center">⚡ Tech Universe</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,php,mysql,git,github,vscode,tensorflow"/>
 
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-Power BI • Tableau • Google Colab • Jupyter Notebook
+</div>
 
 ---
 
-# 📈 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shrushtii24&theme=tokyonight"/>
+<img width="700" src="https://streak-stats.demolab.com?user=Shrushtii24&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-[![Shrushti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night)](https://github.com/Shrushtii24)
+</div>
 
 ---
 
-# 🏅 GitHub Trophies
+<h2 align="center">📈 Contribution Graph</h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shrushtii24&theme=tokyonight&row=1&column=6"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌍 Connect With Me
+<h2 align="center">🏆 Achievements</h2>
 
-<p>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/shrushti-panchdhane-b2787528a?_l=en_US">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Shrushtii24&theme=tokyonight&no-frame=true&column=4"/>
 
-<a href="mailto:panchdhaneshrushti@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<h2 align="center">🌸 Connect With Me</h2>
+
+<div align="center">
 
 <a href="https://github.com/Shrushtii24">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<a href="mailto:panchdhaneshrushti@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> *"Code with purpose. Build solutions that create real impact."*
+<img src="https://komarev.com/ghpvc/?username=Shrushtii24&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shrushtii24&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+### ✨ *"Keep learning. Keep building. Keep growing."* ✨
 
-</p>
+</div>
 
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24"/>
