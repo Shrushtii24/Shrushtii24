@@ -7,7 +7,7 @@
 
   <!-- Social & Contact Badges -->
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/Shrushtii24">
       <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0055ff&logo=github" alt="Followers" />
     </a>
     <a href="mailto:panchdhaneshrushti@gmail.com">
