@@ -76,15 +76,18 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
+
+<img width="700" src="https://streak-stats.demolab.com?user=Shrushtii24&theme=tokyonight&hide_border=true"/>
+
 </div>
