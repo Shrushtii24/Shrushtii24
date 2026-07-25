@@ -8,7 +8,7 @@
   <!-- Social & Contact Badges -->
   <p>
     <a href="https://github.com/Shrushtii24">
-      <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0055ff&logo=github" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/Shrushtii24?label=Followers&style=for-the-badge&color=0055ff&logo=github" alt="Followers" />
     </a>
     <a href="mailto:panchdhaneshrushti@gmail.com">
       <img src="https://img.shields.io/badge/Email-panchdhaneshrushti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -29,10 +29,10 @@
 
 ### 🚀 About Me
 
-* 🎓 **Education:** Final Year B.Tech in CSE (Data Science) at St. Vincent Pallotti College of Engineering and Technology.
-* 💼 **Experience:** Former Data Analyst Intern at **Manisha Systems** (Exploratory Data Analysis, Pandas, NumPy, Power BI).
-* 🏆 **Key Achievement:** Developed the official website for **ISCMGEH South Asia 2025** (International Student Conference hosted by RTMNU).
-* ⚡ **Top 10 Finalist:** Smart India Hackathon (SIH) College Level & PRAGATI Cohort 6 Member.
+* 🎓 **Education:** Final Year B.Tech in CSE (Data Science) at St. Vincent Pallotti College of Engineering and Technology[cite: 1].
+* 💼 **Experience:** Data Analyst Intern at **Manisha Systems** (Exploratory Data Analysis, Pandas, NumPy, Power BI)[cite: 1].
+* 🏆 **Key Achievement:** Developed the official website for **ISCMGEH South Asia 2025** (International Student Conference hosted by RTMNU)[cite: 1].
+* ⚡ **Top 10 Finalist:** Smart India Hackathon (SIH) College Level & PRAGATI Cohort 6 Member[cite: 1].
 
 ---
 
@@ -60,16 +60,16 @@
 
 ### 📌 Featured Projects
 
-* **🧠 Handwritten Digit Recognition:** CNN model trained on MNIST dataset achieving ~99% accuracy with a Tkinter interactive GUI.
-* **📄 Resume Screening System (NLP):** Streamlit app powered by TF-IDF & Scikit-Learn for dynamic skill extraction and job matching.
-* **📊 Sales Analytics Dashboard:** Interactive Power BI & SQL dashboard evaluating revenue trends and product KPIs.
+* **🧠 Handwritten Digit Recognition:** CNN model trained on MNIST dataset achieving ~99% accuracy with a Tkinter interactive GUI[cite: 1].
+* **📄 Resume Screening System (NLP):** Streamlit app powered by TF-IDF & Scikit-Learn for dynamic skill extraction and job matching[cite: 1].
+* **📊 Sales Analytics Dashboard:** Interactive Power BI & SQL dashboard evaluating revenue trends and product KPIs[cite: 1].
 
 ---
 
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Shrushtii24/Shrushtii24/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -77,12 +77,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrushtii24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushtii24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushtii24&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </div>
