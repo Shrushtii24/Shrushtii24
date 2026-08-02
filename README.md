@@ -61,10 +61,6 @@ https://portfolio-six-sigma-hoh80p3s7o.vercel.app/## 🌐 Portfolio
 
 </p>
 
-Explore my portfolio to view my AI/ML projects, data analytics work, web development projects, technical skills, certifications, and achievements.
-
-**🔗 Live Website:**  
-https://portfolio-six-sigma-hoh80p3s7o.vercel.app/
 
 ### 🛠️ Technical Stack & Tools
 
