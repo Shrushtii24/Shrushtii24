@@ -16,6 +16,9 @@
     <a href="https://www.linkedin.com/in/shrushti-panchdhane-b2787528a?_l=en_US">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://portfolio-six-sigma-hoh80p3s7o.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
   </p>
 
   <!-- Status Pill -->
@@ -35,6 +38,33 @@
 * ⚡ **Top 10 Finalist:** Smart India Hackathon (SIH) College Level & PRAGATI Cohort 6 Member[cite: 1].
 
 ---
+## 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://portfolio-six-sigma-hoh80p3s7o.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+Explore my portfolio to view my AI/ML projects, data analytics work, web development projects, technical skills, certifications, and achievements.
+
+**🔗 Live Website:**  
+https://portfolio-six-sigma-hoh80p3s7o.vercel.app/## 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://portfolio-six-sigma-hoh80p3s7o.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+Explore my portfolio to view my AI/ML projects, data analytics work, web development projects, technical skills, certifications, and achievements.
+
+**🔗 Live Website:**  
+https://portfolio-six-sigma-hoh80p3s7o.vercel.app/
 
 ### 🛠️ Technical Stack & Tools
 
