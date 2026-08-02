@@ -53,15 +53,6 @@ Explore my portfolio to view my AI/ML projects, data analytics work, web develop
 **🔗 Live Website:**  
 https://portfolio-six-sigma-hoh80p3s7o.vercel.app/## 🌐 Portfolio
 
-<p align="center">
-
-<a href="https://portfolio-six-sigma-hoh80p3s7o.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
-
 ### 🛠️ Technical Stack & Tools
 
 <p align="center">
