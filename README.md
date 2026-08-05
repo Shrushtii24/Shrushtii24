@@ -33,9 +33,9 @@
 
 ### 🚀 About Me
 
-* 🎓 **Education:** Final Year B.Tech in CSE (Data Science) at St. Vincent Pallotti College of Engineering and Technology[cite: 1].
-* 💼 **Experience:** Data Analyst Intern at **Manisha Systems** (Exploratory Data Analysis, Pandas, NumPy, Power BI)[cite: 1].
-* 🏆 **Key Achievement:** Developed the official website for **ISCMGEH South Asia 2025** (International Student Conference hosted by RTMNU)[cite: 1].
+* 🎓 **Education:** Final Year B.Tech in CSE (Data Science) at St. Vincent Pallotti College of Engineering and Technology.
+* 💼 **Experience:** Data Analyst Intern at **Manisha Systems** (Exploratory Data Analysis, Pandas, NumPy, Power BI).
+* 🏆 **Key Achievement:** Developed the official website for **ISCMGEH South Asia 2025** (International Student Conference hosted by RTMNU)
 * ⚡ **Top 10 Finalist:** Smart India Hackathon (SIH) College Level & PRAGATI Cohort 6 Member[cite: 1].
 
 ---
